@@ -1,0 +1,22 @@
+.bio {
+    font-size: 12px;
+}
+
+.resume {
+    align-content: center;
+    color: red;
+}
+
+.biography {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.coursework {
+    color: red;
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.professional {
+    color: pink;
+}
