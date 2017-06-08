@@ -21,3 +21,7 @@
     color: pink;
     margin: 24 10 24 10;
 }
+
+.biotitle {
+    display: table-cell;
+}
